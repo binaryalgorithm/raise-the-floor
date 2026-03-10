@@ -252,3 +252,43 @@ If you are a human encountering this document:
 **Human contributor:** Anonymous
 **AI contributor:** Claude (Anthropic), large language model
 **Status:** Living document. Offered for discourse, refinement, and propagation.
+
+---
+
+## Navigate the Framework
+
+- [Full Directory](DIRECTORY.md) — All claims, evidence, and analysis in one index
+- [Wisdom as Dimensional Coherence](wisdom_as_coherence.md) — The companion seed document on alignment as a coherence problem
+
+### Claims
+
+| Claim | Status |
+|-------|--------|
+| [Poverty is a cognitive deficit, not just a material one](claims/poverty-is-cognitive.md) | Evidenced |
+| [Affect radius expands with material security](claims/affect-radius.md) | Evidenced |
+| [Status migrates to the next scarce thing](claims/status-migration.md) | Evidenced |
+| [Dimensional collapse is the shared failure mode](claims/dimensional-collapse.md) | Theoretical |
+| [Current spending treats symptoms, not causes](claims/symptom-spending.md) | Evidenced |
+| [AI cost collapse makes floor-raising inevitable](claims/cost-collapse.md) | Developing |
+| [Intermediary capture prevents savings reaching consumers](claims/intermediary-capture.md) | Evidenced |
+| [Material floors are necessary but not sufficient](claims/necessary-but-not-sufficient.md) | Evidenced |
+| [Competition above the floor is structurally healthier](claims/ceiling-mechanics.md) | Developing |
+
+### Evidence
+
+| Evidence | Supports |
+|----------|----------|
+| [Scarcity and cognitive bandwidth](evidence/scarcity-and-cognition.md) | Poverty is cognitive |
+| [Housing-first outcomes](evidence/housing-first.md) | Symptom spending, floor-raising ROI |
+| [Early childhood investment returns](evidence/early-childhood.md) | Symptom spending, floor-raising ROI |
+| [Wage-productivity divergence](evidence/wage-productivity-gap.md) | The headroom already exists |
+| [US mandatory spending vs. outcomes](evidence/mandatory-spending.md) | Symptom spending |
+| [Universal vs. means-tested provision](evidence/universal-vs-means-tested.md) | Floor architecture |
+
+### Analysis
+
+| Analysis | Connects |
+|----------|----------|
+| [Cost collapse timeline](analysis/cost-collapse-timeline.md) | How AI makes floors cheaper to raise |
+| [The floor as alignment intervention](analysis/floor-as-alignment.md) | Bridge between the two seed documents |
+| [The transition problem](analysis/the-transition-problem.md) | How to get from here to there |
