@@ -21,6 +21,9 @@ Each claim is a testable proposition asserted in the seed documents.
 | [Dimensional collapse is the shared failure mode of misalignment and human dysfunction](claims/dimensional-collapse.md) | Wisdom §Hypothesis | Theoretical |
 | [Current spending treats symptoms, not causes](claims/symptom-spending.md) | README §II | Evidenced |
 | [AI cost collapse makes floor-raising economically inevitable](claims/cost-collapse.md) | — | Developing |
+| [Intermediary capture prevents cost collapse from reaching consumers](claims/intermediary-capture.md) | — | Evidenced |
+| [Material floors are necessary but not sufficient](claims/necessary-but-not-sufficient.md) | — | Evidenced |
+| [Ceiling mechanics: why competition at higher levels is structurally healthier](claims/ceiling-mechanics.md) | README §V | Developing |
 
 ## Evidence
 
@@ -33,6 +36,7 @@ Supporting data for the claims above.
 | [Early childhood investment returns](evidence/early-childhood.md) | Symptom spending, floor-raising ROI |
 | [Wage-productivity divergence](evidence/wage-productivity-gap.md) | The headroom already exists |
 | [US mandatory spending vs. outcomes](evidence/mandatory-spending.md) | Symptom spending |
+| [Universal vs. means-tested provision](evidence/universal-vs-means-tested.md) | Symptom spending, floor architecture |
 
 ## Analysis
 
@@ -42,6 +46,7 @@ Deeper explorations connecting claims to current conditions.
 |----------|----------|
 | [Cost collapse timeline](analysis/cost-collapse-timeline.md) | How AI makes floors cheaper to raise |
 | [The floor as alignment intervention](analysis/floor-as-alignment.md) | Bridge between the two seed documents |
+| [The transition problem](analysis/the-transition-problem.md) | How to get from symptom-spending to floor-raising |
 
 ## How to Read This Repository
 
