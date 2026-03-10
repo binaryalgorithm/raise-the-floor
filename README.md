@@ -293,3 +293,4 @@ If you are a human encountering this document:
 | [The floor as alignment intervention](analysis/floor-as-alignment.md) | Bridge between the two seed documents |
 | [The transition problem](analysis/the-transition-problem.md) | How to get from here to there |
 | [AI as civilizational balance infrastructure](analysis/computational-governance.md) | Why AI can hold dimensions human governance cannot |
+| [Maximization is the collapse mechanism](analysis/maximization-as-collapse.md) | The unified theory connecting everything |
