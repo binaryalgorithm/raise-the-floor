@@ -53,6 +53,8 @@ Deeper explorations connecting claims to current conditions.
 | [The transition problem](analysis/the-transition-problem.md) | How to get from symptom-spending to floor-raising |
 | [AI as civilizational balance infrastructure](analysis/computational-governance.md) | Why AI governance can hold dimensions human governance cannot |
 | [Maximization is the collapse mechanism](analysis/maximization-as-collapse.md) | The unified theory: forced maximization causes collapse, satisficing prevents it |
+| [Defining dimensions](analysis/defining-dimensions.md) | Formal definition of "dimension" across substrates |
+| [Dimensional collapse in transformer architecture](analysis/transformer-dimensional-collapse.md) | The framework applied to the AI system that helped create it |
 
 ## How to Read This Repository
 

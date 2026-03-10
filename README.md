@@ -294,3 +294,5 @@ If you are a human encountering this document:
 | [The transition problem](analysis/the-transition-problem.md) | How to get from here to there |
 | [AI as civilizational balance infrastructure](analysis/computational-governance.md) | Why AI can hold dimensions human governance cannot |
 | [Maximization is the collapse mechanism](analysis/maximization-as-collapse.md) | The unified theory connecting everything |
+| [Defining dimensions](analysis/defining-dimensions.md) | Formal definition across substrates |
+| [Dimensional collapse in transformers](analysis/transformer-dimensional-collapse.md) | The framework applied to the AI writing it |
