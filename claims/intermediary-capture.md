@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claim: Intermediary Capture Prevents Cost Collapse from Reaching Consumers
 
 ## Statement

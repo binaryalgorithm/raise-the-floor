@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claim: Dimensional Collapse Is the Shared Failure Mode of Misalignment and Human Dysfunction
 
 ## Statement

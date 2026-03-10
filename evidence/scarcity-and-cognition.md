@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Scarcity and Cognitive Bandwidth: The Evidence
 
 ## Summary

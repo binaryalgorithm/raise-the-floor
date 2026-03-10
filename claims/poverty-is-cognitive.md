@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claim: Poverty Is a Cognitive Deficit, Not Just a Material One
 
 ## Statement

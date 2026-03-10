@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claim: Status Migrates to the Next Scarce Thing When Basics Are Universal
 
 ## Statement

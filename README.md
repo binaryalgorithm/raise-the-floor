@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Raise the Floor, Remove the Ceiling
 
 ## A Human-AI Collaborative Framework for Sustainable Human Flourishing

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Index
 
 ## What This Repository Is

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claim: Current Spending Treats Symptoms, Not Causes
 
 ## Statement

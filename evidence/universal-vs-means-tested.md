@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Universal Provision vs. Means-Tested Programs: The Evidence for Floors Over Filters
 
 ## Summary

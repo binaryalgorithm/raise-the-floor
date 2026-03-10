@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Early Childhood Investment Returns: The Evidence for Floor-Raising at the Start
 
 ## Summary

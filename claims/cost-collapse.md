@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claim: AI Cost Collapse Makes Floor-Raising Economically Inevitable
 
 ## Statement

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claim: Removing the Ceiling Transforms Competition from Zero-Sum to Positive-Sum
 
 ## Statement

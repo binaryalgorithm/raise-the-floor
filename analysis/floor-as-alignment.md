@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Floor as Alignment Intervention
 
 ## Summary

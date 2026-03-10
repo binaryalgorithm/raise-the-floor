@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Wage-Productivity Divergence Since the 1970s
 
 ## Summary

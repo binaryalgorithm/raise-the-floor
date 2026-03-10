@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claim: Material Floors Are Necessary but Not Sufficient for Human Flourishing
 
 ## Statement

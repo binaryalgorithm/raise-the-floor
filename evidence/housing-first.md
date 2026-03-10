@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Evidence: Housing-First Program Outcomes and ROI
 
 ## Summary

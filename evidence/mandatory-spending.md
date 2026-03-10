@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # US Mandatory Spending vs. Outcomes: The Architecture of Expensive Failure
 
 ## Summary

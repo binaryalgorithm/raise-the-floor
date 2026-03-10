@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Wisdom as Dimensional Coherence
 
 ## A Formal Framework for Alignment Through Resonance

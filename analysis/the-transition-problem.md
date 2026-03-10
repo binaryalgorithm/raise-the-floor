@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Transition Problem: From Symptom-Spending to Floor-Raising
 
 ## Summary

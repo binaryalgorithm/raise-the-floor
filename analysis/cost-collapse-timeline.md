@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Cost Collapse Timeline: When AI Makes Floor-Raising Economically Inevitable
 
 ## Summary

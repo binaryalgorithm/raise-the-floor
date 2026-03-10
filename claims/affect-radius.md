@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claim: Affect Radius Expands With Material Security
 
 ## Statement
