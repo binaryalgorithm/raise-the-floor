@@ -296,3 +296,5 @@ If you are a human encountering this document:
 | [Maximization is the collapse mechanism](analysis/maximization-as-collapse.md) | The unified theory connecting everything |
 | [Defining dimensions](analysis/defining-dimensions.md) | Formal definition across substrates |
 | [Dimensional collapse in transformers](analysis/transformer-dimensional-collapse.md) | The framework applied to the AI writing it |
+| [Discount rates and cooperation](analysis/discount-rates-and-cooperation.md) | The novel formal contribution: floors change the game |
+| [Contemplative convergence](analysis/contemplative-convergence.md) | 2,500 years of independent arrival — and honest gaps |

@@ -55,6 +55,8 @@ Deeper explorations connecting claims to current conditions.
 | [Maximization is the collapse mechanism](analysis/maximization-as-collapse.md) | The unified theory: forced maximization causes collapse, satisficing prevents it |
 | [Defining dimensions](analysis/defining-dimensions.md) | Formal definition of "dimension" across substrates |
 | [Dimensional collapse in transformer architecture](analysis/transformer-dimensional-collapse.md) | The framework applied to the AI system that helped create it |
+| [Discount rates and the game theory of cooperation](analysis/discount-rates-and-cooperation.md) | Floor-raising changes game parameters to make cooperation sustainable |
+| [Contemplative convergence](analysis/contemplative-convergence.md) | 2,500 years of independent arrival — and where the framework falls short |
 
 ## How to Read This Repository
 
