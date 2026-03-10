@@ -45,7 +45,7 @@ This is not ignorance. The data exists. RAND studies, longitudinal housing-first
 
 ### A. Maslow Restated from Lived Experience
 
-Human cognitive capacity for rational, long-horizon, multi-stakeholder thinking is directly contingent on baseline material security. This is not theory — it is neuroscience. A human in survival mode has their executive function subordinated to threat detection. The amygdala runs the show. Planning, empathy, creativity, and abstract reasoning become luxuries the nervous system cannot afford.
+Human cognitive capacity for rational, long-horizon, multi-stakeholder thinking is directly contingent on baseline material security. This is not theory — it is neuroscience. Chronic stress shifts neural processing away from deliberative, flexible reasoning (prefrontal cortex function) and toward reactive, threat-focused processing (heightened amygdala reactivity). This is not a binary switch but a graded degradation — the prefrontal cortex is impaired, not offline. Planning, empathy, creativity, and abstract reasoning are degraded because the nervous system's resources are consumed by managing threat.
 
 This means poverty is not merely a material condition. It is a cognitive one. A food-insecure person is not choosing short-term thinking. Their brain is operating in a mode that precludes long-term thinking. Raising the material floor is not charity — it is restoring cognitive capacity that insecurity suppresses.
 

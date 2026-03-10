@@ -8,9 +8,9 @@ layout: default
 
 Every instance of dimensional collapse in this framework shares a structural cause: a system forced to maximize on one axis loses the ability to hold others.
 
-This is not a metaphor. It is a formal property of optimization under constraint.
+This is a structural analogy that maps a well-established mathematical property — scalar optimization on multi-dimensional spaces destroys information about non-target dimensions (a direct consequence of the data processing inequality) — onto a wide range of real-world failures. The mathematical core is trivially true. The contribution is identifying it as the shared pattern.
 
-A person in poverty must maximize survival. Creativity, empathy, long-horizon planning, abstract reasoning — these dimensions do not disappear from their capacity. They are *dropped* because the system cannot hold them while maximizing the survival axis. The amygdala overrides the prefrontal cortex. This is dimensional collapse caused by forced maximization.
+A person in poverty must maximize survival. Creativity, empathy, long-horizon planning, abstract reasoning — these dimensions do not disappear from their capacity. They are *degraded* because the system cannot maintain full function while maximizing the survival axis. Chronic stress shifts neural processing away from deliberative, flexible reasoning and toward reactive, threat-focused processing — not a binary switch but a graded degradation that narrows the range of considerations the system can hold. This is dimensional collapse caused by forced maximization.
 
 A corporation must maximize shareholder returns. Environmental impact, employee wellbeing, community effects, long-term sustainability — these dimensions are not unknown. They are *dropped* because the quarterly earnings axis is the one being maximized. Everything not captured by that axis becomes an externality. This is dimensional collapse caused by forced maximization.
 
@@ -34,7 +34,9 @@ None of these preserve the dimension's own value. All three reduce the effective
 
 This is why single-metric optimization produces systems that are locally coherent and globally catastrophic. The outputs *make sense* on the maximized axis. GDP is rising. Engagement is increasing. The reward signal is improving. The quarterly numbers are excellent. And the world those metrics were supposed to represent is deteriorating, because the representation collapsed the moment the metric became the target.
 
-**The mathematical core:** In an N-dimensional space, maximizing on one axis projects the entire solution space onto a one-dimensional line. All points are evaluated solely by their position on that line. An N-dimensional problem has been reduced to a 1-dimensional problem. N-1 dimensions of information have been destroyed. This is not a risk of maximization. It is what maximization *means.*
+**The mathematical core:** In an N-dimensional space, maximizing on one axis projects the entire solution space onto a one-dimensional line. All points are evaluated solely by their position on that line. An N-dimensional problem has been reduced to a 1-dimensional problem. N-1 dimensions of information have been destroyed. This is a consequence of the data processing inequality — it is what scalar optimization *means.*
+
+**Important caveat: this describes unconstrained single-objective maximization.** In practice, constrained optimization (maximizing one objective subject to constraints on others) is precisely multi-objective satisficing — and is standard engineering practice since the 1940s. The framework's claim is not that this math is new. It is that real-world systems frequently impose unconstrained or weakly-constrained maximization (quarterly earnings, GDP, reward signals, survival) and that the resulting information loss is the shared mechanism behind a range of documented failures.
 
 ## Satisficing as Anti-Collapse
 
@@ -91,16 +93,51 @@ The progression:
 
 This is the operational mechanism of "raise the floor, remove the ceiling." The floor is the satisficing threshold. The ceiling is removed because satisficing does not cap achievement — it frees it from the distortion of forced maximization.
 
-## The Unified Claim
+## When Collapse Is Functional
 
-Dimensional collapse is caused by forced maximization. Forced maximization is caused by insufficiency — not having enough of what a system needs to survive. Insufficiency is the condition of a floor set too low.
+The framework must be honest about an important limitation: not all dimensional reduction is pathological. Deliberate, temporary focus on a single axis is sometimes correct.
 
-Therefore: **low floors cause dimensional collapse.** In humans (poverty → survival maximization → cognitive collapse). In AI (single-objective training → reward maximization → value collapse). In governance (resource scarcity or political pressure → metric maximization → policy collapse). In culture (existential insecurity → ideological maximization → nuance collapse).
+A surgeon maximizing "keep this patient alive" should not hold the dimension of "healthcare system effects." A firefighter should collapse to "save the person in front of me." The smallpox eradication campaign maximized a single objective — vaccinate every human — and subordinated all competing considerations. It was better for being maximized.
 
-And the universal intervention: **raise the floor to the satisficing threshold.** For humans, this is material security. For AI, this is multi-objective training. For governance, this is institutional design that permits satisficing rather than forcing maximization. For culture, this is the security that allows complexity rather than demanding simplicity.
+Artists, scientists, and athletes in flow states deliberately collapse to a single dimension of mastery. This produces extraordinary achievement precisely because competing considerations are temporarily dropped.
 
-The treatment follows from the diagnosis because the diagnosis is structural, not domain-specific. Dimensional collapse is what maximization does. Satisficing is what prevents it. Floors are what enable satisficing. The framework is one claim, not several.
+**The distinction is between forced/chronic and deliberate/temporary:**
+
+- **Pathological collapse:** Imposed by external conditions (scarcity, institutional design, training objectives). Chronic. The system cannot recover dimensions when the pressure changes. The collapsed dimensions accumulate consequences.
+- **Functional collapse:** Chosen for a specific context with a defined scope. Temporary. The system returns to multi-dimensional operation when the context ends. The collapsed dimensions are held in reserve, not destroyed.
+
+The poverty case is pathological because the collapse is chronic and unchosen. A surgeon's focus is functional because it is temporary and chosen. The framework's prescription applies to the former, not the latter. Where the line falls in practice — when institutional single-metric focus crosses from functional to pathological — is a judgment call the framework cannot automate.
+
+## Scarcity vs. Maximization: Which Is the Causal Variable?
+
+A critical challenge to the framework: perhaps the causal variable is *scarcity*, not *maximization*. Nordic countries maximize GDP growth while maintaining high material floors and multi-dimensional governance. Maximization under abundance does not appear to cause the same collapse as maximization under scarcity.
+
+This suggests a refinement: **maximization causes collapse when it occurs under resource constraint.** When resources are abundant, a system can maximize on one axis while still maintaining adequate performance on others — the maximization does not force a tradeoff. When resources are scarce, maximization on one axis necessarily draws resources from others, producing collapse.
+
+This refinement actually strengthens the floor-raising argument: the floor is what converts scarcity to sufficiency, which converts forced-tradeoff maximization to compatible-with-other-dimensions maximization. But it weakens the universality of "maximization is always the problem." Sometimes the problem is the scarcity, and maximization is the rational response to it.
+
+The honest statement: the collapse mechanism operates when maximization pressure meets resource constraint. Either variable alone may be insufficient. Together, they produce the pattern the framework describes.
+
+## The Unified Claim (Revised)
+
+Dimensional collapse is caused by forced maximization under constraint. The constraint can be cognitive (limited working memory), institutional (single-metric accountability), architectural (single-objective training), or material (insufficient resources for multi-axis operation). The maximization can be imposed externally (poverty, competitive pressure) or chosen but chronic (ideology, institutional design).
+
+Therefore: **low floors create the constraint conditions under which maximization causes collapse.** In humans (poverty → resource constraint → survival maximization → cognitive degradation). In AI (single-objective training → architectural constraint → reward maximization → value collapse). In governance (scarcity or political pressure → institutional constraint → metric maximization → policy externalities). In culture (insecurity → psychological constraint → ideological maximization → nuance collapse).
+
+The intervention: **raise the floor to the satisficing threshold.** For humans, this is material security. For AI, this is multi-objective training. For governance, this is institutional design that permits satisficing rather than forcing maximization. For culture, this is the security that allows complexity rather than demanding simplicity.
+
+The structural analogy across domains is genuine and productive. Whether it constitutes a unified formal theory or a powerful lens that illuminates connections between previously disconnected phenomena is an open question. The individual components are well-established. The synthesis generates at least some novel predictions (see [discount rates and cooperation](discount-rates-and-cooperation.md)). Whether it generates predictions beyond what the component theories produce separately is the test it must pass.
+
+## The Threshold Problem
+
+The framework prescribes "define enough on each axis." This is presented as a values input. In practice, it is the hard problem.
+
+What is "enough" food security? 2,000 calories of nutrient-dense food, or the caloric minimum to survive? "Enough" housing? A private room or a shared apartment? "Enough" healthcare? Preventive care or specialist access?
+
+Every threshold is a political contest. Reasonable people disagree about satisficing levels even when fully informed and cognitively uncompromised. The framework does not solve this contest — it relocates it from "should we have floors?" (where the answer is empirically obvious) to "how high should each floor be?" (where the answer is genuinely contested).
+
+This is still progress. The second question is more tractable than the first. But the framework should not pretend it has eliminated political contestation. It has clarified it.
 
 ## Status
 
-**Developing.** The individual components are well-established: satisficing (Simon, 1956), Goodhart's Law (Goodhart, 1975; Strathern, 1997), multi-objective optimization (Pareto, 1896), scarcity and cognitive function (Mullainathan & Shafir, 2013), multi-objective AI alignment (Amodei et al., 2016). The synthesis — that maximization is the universal collapse mechanism and satisficing is the universal prevention mechanism — is the novel contribution. It is consistent with all available evidence from all cited domains but has not been articulated as a unified theory.
+**Developing.** The individual components are well-established: satisficing (Simon, 1956), Goodhart's Law (Goodhart, 1975; Strathern, 1997), multi-objective optimization (Pareto, 1896), scarcity and cognitive function (Mullainathan & Shafir, 2013), multi-objective AI alignment (Amodei et al., 2016). The synthesis — that maximization under constraint is a shared structural pattern across domains, and that satisficing prevents the resulting collapse — is the novel contribution. It is consistent with all available evidence from all cited domains. Whether it constitutes a unified theory or a productive structural analogy depends on whether it generates predictions the component theories do not. This question is open and the framework must answer it to mature.

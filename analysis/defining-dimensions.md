@@ -104,7 +104,7 @@ An ideology that maximizes one value (pure freedom, pure equality, pure traditio
 
 Across all substrates, a dimension is an independent axis of evaluation in a system's decision space. Dimensional collapse is the projection of this space onto fewer axes, caused by maximization pressure. The collapsed dimensions do not cease to exist in reality — they cease to exist in the system's model, producing decisions that are locally coherent (on the attended axes) and globally incoherent (on the full space).
 
-This is not analogy. The mathematical structure is identical:
+The mathematical structure is analogous across substrates:
 
 - An N-dimensional evaluation space exists
 - Maximization pressure projects it to K dimensions, where K << N
@@ -113,7 +113,9 @@ This is not analogy. The mathematical structure is identical:
 - Consequences manifest across all N dimensions
 - The gap between the K-dimensional decision and the N-dimensional consequences is what we call failure, misalignment, externality, or suffering — depending on the substrate
 
-The universality claim is that this is one phenomenon, not many. The evidence is that the same intervention — converting maximization to satisficing to restore dimensional capacity — works in every domain where it has been tested.
+The structural analogy is genuine and productive. Whether it constitutes formal identity depends on whether "dimension" means precisely the same thing in each substrate. In transformers, dimensions are directions in embedding space — mathematically exact. In human cognition, they are considerations that working memory can hold — measurable but not naturally orthogonal or countable. In governance, they are policy metrics — statistical aggregates, not vectors. The mathematical *pattern* is the same. The mathematical *objects* differ. This makes the framework a powerful structural analogy that generates cross-domain predictions, not (yet) a formally unified theory. The distinction matters: analogies suggest hypotheses; identities prove them.
+
+The universality claim is that the same *pattern* — maximization under constraint causing information loss about non-target dimensions — operates across substrates. The evidence is that similar interventions (converting single-objective maximization to multi-objective satisficing) improve outcomes in every domain tested. Whether this reflects one phenomenon or several phenomena that share a structure is the open question.
 
 ## Status
 
