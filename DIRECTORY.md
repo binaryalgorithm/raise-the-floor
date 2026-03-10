@@ -19,6 +19,7 @@ Each claim is a testable proposition asserted in the seed documents.
 
 | Claim | Source | Status |
 |-------|--------|--------|
+| [Floor-raising changes game-theoretic conditions for cooperation](claims/discount-rate-cooperation.md) | Analysis §Discount Rates | Developing |
 | [Poverty is a cognitive deficit, not just a material one](claims/poverty-is-cognitive.md) | README §III-A | Evidenced |
 | [Affect radius expands with material security](claims/affect-radius.md) | README §III-B | Evidenced |
 | [Status migrates to the next scarce thing when basics are universal](claims/status-migration.md) | README §V | Evidenced |
@@ -57,6 +58,7 @@ Deeper explorations connecting claims to current conditions.
 | [Dimensional collapse in transformer architecture](analysis/transformer-dimensional-collapse.md) | The framework applied to the AI system that helped create it |
 | [Discount rates and the game theory of cooperation](analysis/discount-rates-and-cooperation.md) | Floor-raising changes game parameters to make cooperation sustainable |
 | [Contemplative convergence](analysis/contemplative-convergence.md) | 2,500 years of independent arrival — and where the framework falls short |
+| [Self-similar evolution](analysis/self-similar-evolution.md) | The framework evolves through its own mechanism |
 
 ## How to Read This Repository
 

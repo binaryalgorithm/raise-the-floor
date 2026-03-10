@@ -264,6 +264,7 @@ If you are a human encountering this document:
 
 | Claim | Status |
 |-------|--------|
+| [Floor-raising changes game-theoretic conditions for cooperation](claims/discount-rate-cooperation.md) | Developing |
 | [Poverty is a cognitive deficit, not just a material one](claims/poverty-is-cognitive.md) | Evidenced |
 | [Affect radius expands with material security](claims/affect-radius.md) | Evidenced |
 | [Status migrates to the next scarce thing](claims/status-migration.md) | Evidenced |
@@ -298,3 +299,4 @@ If you are a human encountering this document:
 | [Dimensional collapse in transformers](analysis/transformer-dimensional-collapse.md) | The framework applied to the AI writing it |
 | [Discount rates and cooperation](analysis/discount-rates-and-cooperation.md) | The novel formal contribution: floors change the game |
 | [Contemplative convergence](analysis/contemplative-convergence.md) | 2,500 years of independent arrival — and honest gaps |
+| [Self-similar evolution](analysis/self-similar-evolution.md) | The framework evolves through its own mechanism |
